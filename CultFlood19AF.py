@@ -18,7 +18,7 @@ from aiogram.fsm.storage.memory import MemoryStorage
 from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
 # ========== КОНФИГ ==========
-BOT_TOKEN = "8573524597:AAG4J4zj2v1zXONgzN7mQ_IGeJOwLKD-8h4"
+BOT_TOKEN = "8573524597:AAEpYgLYRV9PY2vZTPvCCPM8X1GJY_N0YnQ"
 MASTER_ADMIN_IDS = [8484944484]
 CHAT_INVITE_LINK = "https://t.me/+hhgkpuAQe2dkNzIy"
 DB_PATH = os.path.join(os.path.dirname(__file__), "cult_flood.db")
